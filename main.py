@@ -460,4 +460,4 @@ async def suggest(ctx):
 	embed.timestamp = datetime.datetime.utcnow()
 	await ctx.send(embed=embed)
 	
-bot.run("NzQ5MTg4NzQ2MjE3MjU5MDU5.X0oWZA.TdX-N3nYKT6StuJc-zajwUiuxhY")
+")
